@@ -9,10 +9,10 @@ model = YOLO("licence.pt")
 # model.export(format="ncnn")  # creates 'yolov8n_ncnn_model'
 frame = cv2.imread('PIC1.jpeg')
 # Load the exported NCNN model
-ncnn_model = YOLO("licence_ncnn_model")
+# ncnn_model = YOLO("licence_ncnn_model")
 
 # Run inference
-results = ncnn_model("PIC1.jpeg")
+results = model("PIC1.jpeg")
 
 for r in results:
         boxes = r.boxes
