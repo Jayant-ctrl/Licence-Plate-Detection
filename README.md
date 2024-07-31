@@ -1,4 +1,4 @@
-# Licence Plate Detection
+<h1 align="center">Licence Plate Detection</h1>
 
 <div align= "center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8qskfEr7J-U0Eki_6dwWxoTFy35Rjmb3EQ&s" width="304" height="166"/>
 
