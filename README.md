@@ -1,6 +1,6 @@
 <h1 align="center">Licence Plate Detection</h1>
 
-<div align= "center" padding:20px><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8qskfEr7J-U0Eki_6dwWxoTFy35Rjmb3EQ&s" width="304" height="166"/>
+<div align= "center" padding:50px><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8qskfEr7J-U0Eki_6dwWxoTFy35Rjmb3EQ&s" width="304" height="166"/>
 
 
 ![12](https://github.com/user-attachments/assets/7980b735-db2a-4dcd-ba46-fa6a7498367e)
