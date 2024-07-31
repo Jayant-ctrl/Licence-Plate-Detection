@@ -21,6 +21,6 @@
 
 ##
 
-####  🔴  Improvements can be made by:
-####     1.Training the model with a bigger dataset.
-####     2.Using a more accurate tool for OCR.
+##  🔴  Improvements can be made by:
+##        1.Training the model with a bigger dataset.
+##        2.Using a more accurate tool for OCR.
