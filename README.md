@@ -16,7 +16,7 @@
 ##  3. The image is then fed into the EasyOCR library to detect the numbers on Licence Plate.
 
   
-##  ▶ This system is an overview of how a basic Licence Plate Detection System works.
+#  ▶ This system is an overview of how a basic Licence Plate Detection System works.
 ####  🔴  Improvements can be made by:
 ####     1.Training the model with a bigger dataset.
 ####     2.Using a more accurate tool for OCR.
