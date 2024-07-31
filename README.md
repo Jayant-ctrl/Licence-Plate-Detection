@@ -15,6 +15,7 @@
 ##  2. The detection results are then used to extract the image of licence plate from the main image.
 ##  3. The image is then fed into the EasyOCR library to detect the numbers on Licence Plate.
 
+##
   
 #  ▶ This system is an overview of how a basic Licence Plate Detection System works.
 ####  🔴  Improvements can be made by:
