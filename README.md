@@ -14,6 +14,7 @@
 ##  1. The project uses YOLO V8 custom trained model to detect the position of licence plate on vehicles.
 ##  2. The detection results are then used to extract the image of licence plate from the main image.
 ##  3. The image is then fed into the EasyOCR library to detect the numbers on Licence Plate.
+##  4. We can also use the provided NCNN model for faster inference speeds. 
 
 ##
   
