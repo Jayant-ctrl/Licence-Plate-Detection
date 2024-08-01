@@ -24,6 +24,7 @@
 
 #  🟣Requirements
      pip install ultralytics 
+     pip install opencv-python
 
 ## 🔴Improvements can be made by:
 ##        1.Training the model with a bigger dataset.
